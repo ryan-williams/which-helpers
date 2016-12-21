@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+unbak "$(which "$1")"
