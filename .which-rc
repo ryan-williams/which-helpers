@@ -24,6 +24,7 @@ alias wll=which-less
 alias lw=which-less
 
 alias llw=ll-which
+alias al=ll-which
 
 alias wr=which-readlink
 alias wrl=which-readlink
