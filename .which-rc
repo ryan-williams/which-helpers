@@ -5,7 +5,7 @@ alias awch=". alias-which"
 alias aw=". alias-which"
 alias a=". alias-which"
 
-alias dw=dirname-which
+alias dnw=dirname-which
 alias wd=dirname-which
 
 alias wb=which-bak
